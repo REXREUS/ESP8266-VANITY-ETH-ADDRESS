@@ -21,7 +21,7 @@
 
 ## Configuration
 Configure these variables in the main file before use:
-```
+```cpp
 // WiFi Configuration
 const char* ssid = "your_ssid";
 const char* password = "your_password";
