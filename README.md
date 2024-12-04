@@ -1,5 +1,5 @@
 # ETH Vanity Address Generator for ESP8266/ESP32
-## A microcontroller-based Ethereum vanity address generator running on ESP8266 or ESP32. This program searches for Ethereum addresses starting with a specific prefix and sends the results via email.
+ A microcontroller-based Ethereum vanity address generator running on ESP8266 or ESP32. This program searches for Ethereum addresses starting with a specific prefix and sends the results via email.
 # Key Features
 - Support for ESP8266 and ESP32
 - Custom prefix Ethereum address search
